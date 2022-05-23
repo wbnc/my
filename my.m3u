@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1, CCTV-1
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8
+#EXTINF:-1, CCTV-2
+http://117.148.179.156/PLTV/88888888/224/3221232362/1.m3u8
+#EXTINF:-1, CCTV-3
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
+#EXTINF:-1, CCTV-4
+http://117.148.179.182/PLTV/88888888/224/3221231726/1.m3u8
+#EXTINF:-1, CCTV-5
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+#EXTINF:-1, CCTV-9
+http://117.148.179.162/PLTV/88888888/224/3221231697/1.m3u8
+#EXTINF:-1, CCTV-13
+http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1, 天津卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/tjwshd/2300000/mnf.m3u8
+#EXTINF:-1, 北京卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
+#EXTINF:-1, 东方卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
+#EXTINF:-1, 辽宁卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
+#EXTINF:-1, 浙江卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
+#EXTINF:-1, 湖南卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1, 凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1, 凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+#EXTINF:-1, 广东体育
+https://pull-hls-l1.ixigua.com/live/0d097931457011cab2c105402508915f/playlist.m3u8
+#EXTINF:-1, 香港体育
+https://pull-hls-l1.ixigua.com/live/e879a190b8a49e39eb7304459e88c30d/playlist.m3u8
+#EXTINF:-1, CCTV5+
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
