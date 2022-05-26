@@ -1,0 +1,176 @@
+#EXTM3U
+#EXTINF:-1  group-title="央视", CCTV-1
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="央视", CCTV-2
+http://117.148.179.156/PLTV/88888888/224/3221232362/1.m3u8
+#EXTINF:-1  group-title="央视", CCTV-3
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="央视", CCTV-4
+http://117.148.179.182/PLTV/88888888/224/3221231726/1.m3u8
+#EXTINF:-1  group-title="央视", CCTV-5
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="央视", CCTV-6
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="央视", CCTV-7
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/2022052617/165355789.ts
+#EXTINF:-1  group-title="央视", CCTV-8
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="央视", CCTV-9
+http://117.148.179.162/PLTV/88888888/224/3221231697/1.m3u8
+#EXTINF:-1  group-title="央视", CCTV-10
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="央视", CCTV-11
+http://117.148.179.164/PLTV/88888888/224/3221231711/1.m3u8
+#EXTINF:-1  group-title="央视", CCTV-12
+http://117.148.179.150/PLTV/88888888/224/3221231660/1.m3u8
+#EXTINF:-1  group-title="央视", CCTV-13
+http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1  group-title="央视", CCTV-14
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="央视", CCTV-15
+http://49.7.234.13:8888/hls/15/index.m3u8
+#EXTINF:-1  group-title="央视", CCTV-17
+http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
+#EXTINF:-1  group-title="央视", CCTV4K超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1  group-title="央视", CCTV5+
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="央视", CCTV奥林匹克
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1  group-title="央视", CCTV风云足球
+http://117.148.179.137/PLTV/88888888/224/3221231547/1.m3u8
+#EXTINF:-1  group-title="央视", CETV-1中国教育
+http://117.148.179.156/PLTV/88888888/224/3221231714/1.m3u8
+#EXTINF:-1  group-title="卫视",天津卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/tjwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",北京卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",北京新闻
+http://49.7.234.13:8888/hls/25/index.m3u8
+#EXTINF:-1  group-title="卫视",东方卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",上海新闻
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",辽宁卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",浙江卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",江苏卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",广东卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/gdwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",广东体育
+https://pull-hls-l1.ixigua.com/live/0d097931457011cab2c105402508915f/playlist.m3u8
+#EXTINF:-1  group-title="卫视",深圳卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/szwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",湖南卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",东南卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/dnwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",安徽卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/ahwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",黑龙江卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/hljwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",吉林卫视
+http://39.134.66.110/PLTV/88888888/224/3221225981/index.m3u8
+#EXTINF:-1  group-title="卫视",山东卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/sdwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",河北卫视
+http://49.7.234.13:8888/hls/49/index.m3u8
+#EXTINF:-1  group-title="卫视",河南卫视
+http://49.7.234.13:8888/hls/43/index.m3u8
+#EXTINF:-1  group-title="卫视",海南卫视
+http://stream1.hnntv.cn/lywsgq/sd/live.m3u8?_upt=3bb13ea81653568380
+#EXTINF:-1  group-title="卫视",江西卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/jxwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",山东卫视
+http://49.7.234.13:8888/hls/37/index.m3u8
+#EXTINF:-1  group-title="卫视",四川卫视
+http://49.7.234.13:8888/hls/44/index.m3u8
+#EXTINF:-1  group-title="卫视",湖北卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/hbwshd/2300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",青海卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",宁夏卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/nxws/1300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",新疆卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/xjws/1300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",兵团卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",陕西卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/sxws/1300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",内蒙古卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/nmgws/1300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",山西卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",重庆卫视
+http://49.7.234.13:8888/hls/47/index.m3u8
+#EXTINF:-1  group-title="卫视",云南卫视
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/ynws/1300000/mnf.m3u8
+#EXTINF:-1  group-title="卫视",贵州卫视
+http://49.7.234.13:8888/hls/46/index.m3u8
+#EXTINF:-1  group-title="卫视",甘肃卫视
+http://49.7.234.13:8888/hls/60/index.m3u8
+#EXTINF:-1  group-title="卫视",西藏卫视
+http://49.7.234.13:8888/hls/58/index.m3u8
+#EXTINF:-1  group-title="港台",香港有线新闻
+https://pull-hls-l1.ixigua.com/live/02e5b115aa23a316c7061172be939216/playlist.m3u8
+#EXTINF:-1  group-title="港台",香港有线财经
+https://pull-hls-l1.ixigua.com/live/861b8e26ae3291d4e9214801ad04c3b5/playlist.m3u8
+#EXTINF:-1  group-title="港台",香港无线TVB新闻
+https://pull-hls-l1.ixigua.com/live/7b3b4d285db47519b1883a6e9e3a57f1/playlist.m3u8
+#EXTINF:-1  group-title="港台",香港无线TVB财经
+https://pull-hls-l1.ixigua.com/live/995183989a9231d64f17c3b4316b7088/playlist.m3u8
+#EXTINF:-1  group-title="港台",凤凰资讯
+http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+#EXTINF:-1  group-title="港台",凤凰中文
+http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+#EXTINF:-1  group-title="港台",台湾TVBS新闻
+https://pull-hls-l1.ixigua.com/live/d4f699b3efcc1022353041f60412ffc4/playlist.m3u8
+#EXTINF:-1  group-title="港台",台湾中天新闻
+https://pull-hls-l1.ixigua.com/live/d6b07d6c1590233388c3d171355f27b7/playlist.m3u8
+#EXTINF:-1  group-title="港台",台湾TVBS
+https://pull-hls-l1.ixigua.com/live/e3011f0a2fedbb8941cbdeec86629eb7/playlist.m3u8
+#EXTINF:-1  group-title="港台",台湾寰宇新闻
+https://pull-hls-l1.ixigua.com/live/c3537f1ffb82ddf726cd478aa5c3b5c1/playlist.m3u8
+
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕1
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕2
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕3
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕4
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕5
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕6
+http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕7
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕8
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕9
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕10
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕11
+http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕12
+http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕13
+http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕14
+http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕15
+http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕16
+http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕17
+http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕18
+http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕19
+http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕20
+http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
