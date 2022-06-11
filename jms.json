@@ -1,0 +1,262 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-1",
+            "num": "00001",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-2",
+            "num": "00002",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225800/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-3",
+            "num": "00003",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227055/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-4",
+            "num": "00004",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-4K",
+            "num": "00005",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-5",
+            "num": "00006",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-5+",
+            "num": "00007",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-6",
+            "num": "00008",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227137/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-7",
+            "num": "00009",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225805/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-8",
+            "num": "00010",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227174/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-9",
+            "num": "00011",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-10",
+            "num": "00012",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225814/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-11",
+            "num": "00013",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225815/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-12",
+            "num": "00014",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225816/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-13",
+            "num": "00015",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-14",
+            "num": "00016",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225819/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-15",
+            "num": "00017",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-16",
+            "num": "00018",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-17",
+            "num": "00019",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "河南卫视",
+            "num": "00020",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "江苏卫视",
+            "num": "00021",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江卫视",
+            "num": "00022",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225825/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "北京卫视",
+            "num": "00023",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湖南卫视",
+            "num": "00024",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广东卫视",
+            "num": "00025",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东方卫视",
+            "num": "00026",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "黑龙江卫视",
+            "num": "00027",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "深圳卫视",
+            "num": "00028",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225848/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山东卫视",
+            "num": "00029",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225843/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "天津卫视",
+            "num": "00030",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225830/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湖北卫视",
+            "num": "00031",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225840/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "重庆卫视",
+            "num": "00032",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225831/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "安徽卫视",
+            "num": "00033",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225844/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "江西卫视",
+            "num": "00034",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225834/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "辽宁卫视",
+            "num": "00035",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221225832/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东南卫视",
+            "num": "00036",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227040/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "四川卫视",
+            "num": "00037",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "贵州卫视",
+            "num": "00038",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221226827/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "海南卫视",
+            "num": "00039",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "河北卫视",
+            "num": "00040",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "吉林卫视",
+            "num": "00041",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "厦门卫视",
+            "num": "00042",
+            "urllist": "http://39.135.55.105:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "=未分组="
+        }
+    ]
+}
